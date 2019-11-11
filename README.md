@@ -10,8 +10,21 @@ Ths project focuses on twitter data, cleaning a dataset writing SQL queries in j
 
 ### Conclusion
 
-
+Data was successfully processed, evaluated and a csv file contain word counts from Hiliary Clinton and Dondal Trump was output.  During this process data was successfully extracted, transformed an loaded back into a single database using several tools outlined below.
 
 ### Technology Used
 
+- sqlalchemy
+- SQlite
+- Kaggle for twitter database
+- Jupyter Notebook
 
+### Modules Used
+
+- Pandas
+- Numpy
+- collections
+- Matplotlib
+- datetime
+- collections
+- nltk for stopwords & word tokenize
